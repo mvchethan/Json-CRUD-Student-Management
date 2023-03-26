@@ -72,7 +72,7 @@ namespace CRUD_Json_Operation
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Add Error : " + ex.Message.ToString());
+                Console.WriteLine("Add Error: " + ex.Message.ToString());
             }
             DashBoard();
         }   
@@ -102,7 +102,7 @@ namespace CRUD_Json_Operation
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Delete Error : " + ex.Message.ToString());
+                Console.WriteLine("Delete Error: " + ex.Message.ToString());
             }
         }
         public void UpdateStudent()
@@ -136,7 +136,7 @@ namespace CRUD_Json_Operation
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Update Error : " + ex.Message.ToString());
+                Console.WriteLine("Update Error: " + ex.Message.ToString());
             }
             DashBoard();
         }
