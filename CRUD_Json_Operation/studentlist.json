@@ -1,0 +1,19 @@
+{
+  "studentlist": [
+    {
+      "studentid": 101,
+      "studentname": "starr",
+      "studentstatus": true
+    },
+    {
+      "studentid": 102,
+      "studentname": "Billy",
+      "studentstatus": false
+    },
+    {
+      "studentid": 103,
+      "studentname": "Jack",
+      "studentstatus": true
+    }
+  ]
+}
